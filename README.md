@@ -4,7 +4,7 @@
 
 I am Rafael Bordoni and these are my visions.
 
-💻 I am a jack-of-all-trades developer who loves art, learning and contributing. I deeply believe in sharing knowledge. 🌱
+💻 I am a developer who loves art, learning and contributing. I deeply believe in sharing knowledge. 🌱
 
 📚 I love programming, science, technology, video games, films, art and I believe we can do better as a society. 🤝
 
