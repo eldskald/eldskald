@@ -15,7 +15,7 @@ I am Rafael Bordoni and these are my visions.
 
 ---
 
-<img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eldskald&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img align="right" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eldskald&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" />
 
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
