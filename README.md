@@ -15,30 +15,34 @@
 
 ---
   
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Postgres Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis Badge](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![Prisma Badge](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Godot Badge](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
-![Unity Badge](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![OpenGL Badge](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
-![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-2780A4?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-2780A4?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/HTML5-2780A4?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-2780A4?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/React-2780A4?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Node.js-2780A4?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Express.js-2780A4?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-2780A4?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-2780A4?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/redis-2780A4.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/Prisma-2780A4?style=for-the-badge&logo=Prisma&logoColor=white)
+![](https://img.shields.io/badge/GitHub_Actions-2780A4?style=for-the-badge&logo=github-actions&logoColor=white)
+![](https://img.shields.io/badge/docker-2780A4.svg?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Nginx-2780A4?style=for-the-badge&logo=nginx&logoColor=white)
+![](https://img.shields.io/badge/AWS-2780A4.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Jest-2780A4?style=for-the-badge&logo=jest&logoColor=white)
+![](https://img.shields.io/badge/Cypress-2780A4?style=for-the-badge&logo=cypress&logoColor=white)
+![](https://img.shields.io/badge/Godot-2780A4?style=for-the-badge&logo=GodotEngine&logoColor=white)
+![](https://img.shields.io/badge/Unity-2780A4?style=for-the-badge&logo=unity&logoColor=white)
+![](https://img.shields.io/badge/C%23-2780A4?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/OpenGL-2780A4?style=for-the-badge&logo=opengl&logoColor=white)
+![](https://img.shields.io/badge/GIT-2780A4?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Linux-2780A4?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
-  
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eldskald&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=eldskald&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldskald&theme=blue-green&layout=compact&langs_count=7"/>
 
 ---
 
